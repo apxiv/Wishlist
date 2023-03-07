@@ -1,6 +1,6 @@
-# Android Project 2 - *WishIt*
+# Android Project 2 - *Wishmart*
 
-**WishIt** is a wishlist app that helps the user keep track of what they want to buy.
+**Wishmart** is a wishlist app that helps the user keep track of what they want to buy.
 
 Time spent: **5** hours spent in total
 
@@ -27,13 +27,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://im4.ezgif.com/tmp/ezgif-4-d2c6896d44.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ...
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with ezgif (mp4 converted to gif)
 
 ## License
 
