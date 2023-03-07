@@ -27,9 +27,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./app/src/main/ezgif.com-video-to-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./app/src/main/res/drawable/wishmart.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with ezgif (mp4 converted to gif)
 
 ## License
 
