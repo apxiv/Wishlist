@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='./app/src/main/res/drawable/wishmart.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./app/src/main/res/drawable/wishmart.gif' title='Video Walkthrough' width='270' height='570' alt='Video Walkthrough' />
 
 
 ## License
