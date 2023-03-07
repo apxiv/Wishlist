@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Wishlist</string>
+    <string name="app_name">Wishmart</string>
     <string name="url_example">https://a.co/d/1H1eTM2</string>
     <string name="item_name">Item Name</string>
     <string name="price">Ex: 5.99</string>

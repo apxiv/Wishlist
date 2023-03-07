@@ -1,4 +1,4 @@
-# Android Project 2 - *WishIt*
+# Android Project 2 - *Wishmart*
 
 **WishIt** is a wishlist app that helps the user keep track of what they want to buy.
 
@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Wishlist app is 🎨 **customized** 🎨
+- [X] Wishlist app is 🎨 **customized** 🎨
 - [ ] User can delete an item by long pressing on the item
 - [X] User can open an item's URL by clicking on the item
 
