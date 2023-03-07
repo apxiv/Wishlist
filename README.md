@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [ ] Wishlist app is 🎨 **customized** 🎨
+- [X] Wishlist app is 🎨 **customized** 🎨
 - [ ] User can delete an item by long pressing on the item
 - [X] User can open an item's URL by clicking on the item
 
@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://im4.ezgif.com/tmp/ezgif-4-d2c6896d44.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./app/src/main/ezgif.com-video-to-gif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ezgif (mp4 converted to gif)
 
